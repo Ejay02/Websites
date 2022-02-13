@@ -38,7 +38,7 @@ h1 {
 }
 
 h1 a {
-  transform: scale(0.6);
+  transform: scale(0.7);
 }
 
 a {
@@ -95,8 +95,12 @@ a::after {
 .block {
   display: block;
   text-align: center;
-  font-size: 4rem;
+  font-size: 2.5rem;
   margin-top: 5rem;
+}
+
+.footer{
+  text-align: center;
 }
 
 @media screen and (max-width: 768px) {
