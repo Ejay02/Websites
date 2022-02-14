@@ -1,3 +1,11 @@
-10 fun websites courtesy Florin Pop
+10 fun 🤷🏽‍♀️ Landing page: courtesy Florin Pop
 
--Car website
+-Car Landing Page
+
+-Footwear landing page
+
+-Restaurant Landing page
+
+-Fashion Landing page
+
+-Tourism Landing Page
