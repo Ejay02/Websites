@@ -9,3 +9,5 @@
 -Fashion Landing page
 
 -Tourism Landing Page
+
+-NewsPaper Landing Page
